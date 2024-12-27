@@ -1,0 +1,94 @@
+{
+  "book_title": "string",
+  "author": {
+    "name": "string",
+    "background": "string",
+    "notable_works": ["string"]
+  },
+  "context": {
+    "historical_context": "string",
+    "genre": "string",
+    "target_audience": "string"
+  },
+  "summary": {
+    "plot_overview": "string",
+    "key_events": ["string"],
+    "ending_summary": "string"
+  },
+  "themes": {
+    "primary_themes": ["string"],
+    "secondary_themes": ["string"],
+    "examples_in_text": [
+      {
+        "theme": "string",
+        "text_excerpt": "string",
+        "analysis": "string"
+      }
+    ]
+  },
+  "characters": {
+    "main_characters": [
+      {
+        "name": "string",
+        "role": "string",
+        "development": "string",
+        "motivation": "string",
+        "key_actions": ["string"]
+      }
+    ],
+    "supporting_characters": [
+      {
+        "name": "string",
+        "role": "string",
+        "contribution_to_plot": "string"
+      }
+    ]
+  },
+  "key_ideas_and_lessons": {
+    "life_lessons": ["string"],
+    "philosophical_ideas": ["string"],
+    "practical_takeaways": ["string"]
+  },
+  "writing_style": {
+    "tone": "string",
+    "language": "string",
+    "pacing": "string",
+    "notable_quotes": ["string"]
+  },
+  "impact": {
+    "critical_reception": {
+      "reviews": ["string"],
+      "awards": ["string"]
+    },
+    "cultural_impact": "string",
+    "adaptations": [
+      {
+        "type": "string",
+        "details": "string"
+      }
+    ]
+  },
+  "personal_reflection": {
+    "favorite_moments": ["string"],
+    "relatable_aspects": ["string"],
+    "personal_rating": "number (1-10)"
+  },
+  "limitations_and_controversies": {
+    "weak_points": ["string"],
+    "controversial_topics": ["string"],
+    "criticism_from_readers": ["string"]
+  },
+  "comparison_to_other_books": [
+    {
+      "title": "string",
+      "author": "string",
+      "similarities": ["string"],
+      "differences": ["string"]
+    }
+  ],
+  "video_script_guidelines": {
+    "opening_hook": "string",
+    "main_sections": ["string"],
+    "closing_call_to_action": "string"
+  }
+}
